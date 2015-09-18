@@ -6,7 +6,7 @@ This application supports the [Getting Started with Node on Heroku](https://devc
 
 ## Running on SourceLair
 
-Run this app on SourceLair at https://www.sourcelair.com/blueprints/sourcelair/express-tutorial.
+Run this app on SourceLair at https://www.sourcelair.com/blueprints/sourcelair/express-example.
 
 ## Running Locally
 
